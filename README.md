@@ -6,7 +6,7 @@ A lightweight, production-grade visual search engine for jewelry items. Powered 
 
 ## 🔗 Quick Links
 
-- **🚀 Live Demo App:** [Click here to view the app](YOUR_STREAMLIT_APP_URL_HERE)
+- **🚀 Live Demo App:** [Click here to view the app](https://jewelrysearch.streamlit.app/)
 - **📊 Dataset Source:** [Tanishq Jewellery Dataset on Kaggle](https://www.kaggle.com/datasets/sapnilpatel/tanishq-jewellery-dataset)
 
 ---
