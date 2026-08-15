@@ -1,4 +1,4 @@
-# 💎 Khazeena AI — Visual Search Engine
+# 💎 Khazeena — Visual Search Engine
 
 A lightweight, production-grade visual search engine for jewelry items. Powered by **MobileNetV2 (ONNX)** and **Cosine Similarity**, this application retrieves visually similar jewelry products from a catalog based on an uploaded image or real-time camera snapshot.
 
